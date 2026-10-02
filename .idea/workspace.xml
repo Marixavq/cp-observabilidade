@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e2ddfd-cf79-4703-8917-479adb977b70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/config/RestClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/controller/PedidoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servico-pedidos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servico-pedidos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/config/RestClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/controller/PedidoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/servico-pedidos/src/main/java/com/fiap/servico_pedidos/controller/PedidoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/servico-pedidos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servico-pedidos/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,20 +56,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.ServicoFreteApplication.executor": "Run",
-    "Spring Boot.ServicoPedidosApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mariana/Documentos/FIAP/Java/cp-observabilidade"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ServicoFreteApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServicoPedidosApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mariana/Documentos/FIAP/Java/cp-observabilidade&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Spring Boot.ServicoFreteApplication">
+}</component>
+  <component name="RunManager">
     <configuration name="ServicoFreteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="servico-frete" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fiap.servico_frete.ServicoFreteApplication" />
@@ -83,18 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Spring Boot.ServicoPedidosApplication" />
-      <item itemvalue="Spring Boot.ServicoFreteApplication" />
-    </list>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-      </set>
-    </attachedChunks>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="16e2ddfd-cf79-4703-8917-479adb977b70" name="Changes" comment="" />
